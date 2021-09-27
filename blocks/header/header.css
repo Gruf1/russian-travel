@@ -4,27 +4,27 @@ justify-content: space-between;
 align-items: flex-end;
 margin: 0 auto;
 }
-@media (max-width : 1279px) {
+@media (max-width: 1279px) {
 .header {
 max-width: 928px;
 }
 }
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
 .header {
 max-width: 720px;
 }
 }
-@media (max-width : 767px) {
+@media (max-width: 767px) {
 .header {
 max-width: 390px;
 }
 }
-@media (max-width : 424px) {
+@media (max-width: 424px) {
 .header {
 max-width: 343px;
 }
 }
-@media (max-width : 374px) {
+@media (max-width: 374px) {
 .header {
 max-width: 288px;
 }

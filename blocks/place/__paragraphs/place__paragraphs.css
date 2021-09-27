@@ -1,17 +1,17 @@
 .place__paragraphs{
 width: 100%;
 }
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
 .place__paragraphs {
 max-width: 456px;
 }
 }
-@media (max-width : 767px) {
+@media (max-width: 767px) {
 .place__paragraphs {
 max-width: 352px;
 }
 }
-@media (max-width : 374px) {
+@media (max-width: 374px) {
 .place__paragraphs {
 max-width: 288px;
 margin-left: 16px;
