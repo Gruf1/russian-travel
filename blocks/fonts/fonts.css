@@ -1,18 +1,18 @@
 @font-face {
 font-family: 'InterBlack';
 src: url('../../vendor/fonts/Inter-Black.otf');
-font-style: normal; 
+font-style: normal;
 font-weight: 900; 
 }
 @font-face {
 font-family: 'InterNormal';
 src: url('../../vendor/fonts/Inter-Regular.otf');
-font-style: normal; 
+font-style: normal;
 font-weight: 400; 
 }
 @font-face {
 font-family: 'InterBold';
 src: url('../../vendor/fonts/Inter-Bold.otf');
-font-style: normal; 
+font-style: normal;
 font-weight: 700; 
 }
