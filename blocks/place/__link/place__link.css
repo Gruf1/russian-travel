@@ -1,8 +1,8 @@
 .place__link{
-font-size: 18px;
-line-height: 122%;
-text-decoration: underline;
-padding-top: 12px;
-color: #FFFFFF;
-align-self: flex-start;
+  font-size: 18px;
+  line-height: 122%;
+  text-decoration: underline;
+  padding-top: 12px;
+  color: #FFFFFF;
+  align-self: flex-start;
 }

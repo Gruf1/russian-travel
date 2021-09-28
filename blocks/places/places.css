@@ -1,22 +1,22 @@
 .places{
-max-width: 984px;
-display: flex;
-flex-direction: column;
-margin: 92px auto;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  max-width: 984px;
+  margin: 0 auto;
+  padding-bottom: 52px;
 }
 @media (max-width: 1279px) {
-.places {
-max-width: 928px;
-}
+  .places {
+    max-width: 928px;
+  }
 }
 @media (max-width: 1023px) {
-.places {
-max-width: 720px;
-}
+  .places {
+    max-width: 720px;
+  }
 }
 @media (max-width: 767px) {
-.places {
-width: 100%;
-display: block;
-}
+  .places {
+    padding-bottom: 40px;
+    max-width: 320px;
+  }
 }

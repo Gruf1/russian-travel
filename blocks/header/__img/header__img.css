@@ -1,9 +1,9 @@
 .header__img {
-margin-left: 0;
+  margin-left: 0;
 }
 @media (max-width: 767px) {
-.header__img {
-width: 142px;
-height: 42px;
-}
+  .header__img {
+    width: 142px;
+    height: 42px;
+  }
 }

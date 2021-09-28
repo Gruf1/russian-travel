@@ -1,17 +1,20 @@
 .lead__caption{
-font-size: 10px;
-line-height: 14px;
-letter-spacing: 0.15em;
-text-transform: uppercase;
-margin: 8px 0 0 0;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin: 8px 0 0 24px;
+  align-self: flex-start;
 }
-@media (max-width: 768px) {
-.lead__caption {
-margin-left: 24px;
+@media screen and (min-width: 1024px) {
+  .lead__caption {
+    margin-left: 0;
+  }
 }
-}
-@media (max-width: 320px) {
-.lead__caption {
-margin-left: 16px;
-}
+@media screen and (max-width: 767px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
 }
