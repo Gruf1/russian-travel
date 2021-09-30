@@ -37,5 +37,6 @@
 @media (max-width: 374px) {
   .photo-grid {
     max-width: 288px;
+    grid-row-gap: 12px;
   }
 }

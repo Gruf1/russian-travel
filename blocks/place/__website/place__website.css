@@ -17,6 +17,6 @@
 @media (max-width: 374px) {
   .place__website {
     max-width: 288px;
-    margin-left: 16px;
+    margin: 0 0 0 16px;
   }
 }
