@@ -1,32 +1,9 @@
-.cover{
+.cover {
   max-width: 1184px;
-  min-height: 740px;
-  position: relative;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  z-index: 1;
 }
-.cover:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: #2A2C2F;
-  opacity: .3;
-  transition: opacity .5s ease;
-}
-.cover:hover::before {
-  opacity: .8;
-}
-
-@media (max-width: 1279px) {
+@media (max-width: 1184px) {
   .cover {
-    min-height: calc(100vw*740/1184);
-    width: 100%;
-  }
+      max-width: 100%;
+  } 
 }

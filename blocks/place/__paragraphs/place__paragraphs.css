@@ -9,11 +9,11 @@
 @media (max-width: 767px) {
   .place__paragraphs {
     max-width: 352px;
-    padding: 0 16px;
   }
 }
 @media (max-width: 374px) {
   .place__paragraphs {
     max-width: 288px;
+    padding-left: 16px;
   }
 }

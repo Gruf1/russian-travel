@@ -6,14 +6,13 @@
   color: #FFFFFF;
   text-align: center;
   max-width: 560px;
-  margin: 0 auto 32px auto;
+  margin: 0;
   z-index: 3;
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .cover__title {
-    margin: 0 0 16px;
-    max-width: 255px;
-    font-size: 32px;
-    line-height: 1.09;
-  }
+      font-size: 32px;
+      line-height: 1.09;
+      max-width: 288px;
+  } 
 }
