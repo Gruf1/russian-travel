@@ -1,4 +1,3 @@
 .header__lang-container{
-  max-width: 76px;
-  max-height: 30px;
+  display: flex;
 }
